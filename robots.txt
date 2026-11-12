@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://landysh-lash.ru/sitemap.xml
